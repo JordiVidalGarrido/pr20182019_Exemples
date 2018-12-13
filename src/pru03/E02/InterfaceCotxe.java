@@ -31,3 +31,7 @@ public interface InterfaceCotxe {
 	 */
 	public void aturarMotor() throws Exception;
 }
+	
+	public static void main(String[] args) {
+		
+	}
